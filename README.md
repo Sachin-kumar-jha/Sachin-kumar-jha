@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently learning **JAVA FULLSTACK**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gray-sigma-41.vercel.app/](https://portfolio-gray-sigma-41.vercel.app/)
 
