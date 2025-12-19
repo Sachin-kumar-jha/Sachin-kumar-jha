@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **JAVA FULLSTACK**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gray-sigma-41.vercel.app/](https://portfolio-gray-sigma-41.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://jhaji.vercel.app/)
 
 - 💬 Ask me about **Node.js,Core Java,Javascript,React,Express.js**
 
